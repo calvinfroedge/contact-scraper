@@ -1,0 +1,9 @@
+{
+    "name": "contact-extractor",
+    "description": "A package for extracting contact details from websites",
+    "author": "Calvin Froedge <calvinfroedge@gmail.com>",
+    "dependencies": {
+        "crawler": "0.4.2"
+    },
+    "version": "0.10.36"
+}
